@@ -24,7 +24,7 @@ Welcome to the Airbnb Bookings Analysis project repository! This project explore
 ## How to Use
 1. Clone the repository to your local machine.
 2. Navigate to the `scripts/` directory and run the Python script (`airbnb_analysis.py`) for data analysis.
-3. Open the [Tableau Dashboard](link_to_tableau_dashboard) hosted on Tableau Public for interactive visualizations.
+3. Open the [Tableau Dashboard](https://public.tableau.com/app/profile/shreya.kumari7691/viz/AirbnbNYCBookingsAnalyser/Dashboard12 ) hosted on Tableau Public for interactive visualizations.
 4. Explore the visualizations in the `visualizations/` directory for additional insights.
 
 ## Dependencies
@@ -33,9 +33,6 @@ Welcome to the Airbnb Bookings Analysis project repository! This project explore
 - Matplotlib
 - Seaborn
 - Tableau (for interactive visualizations)
-
-## Additional Resources
-- Explore the [Tableau Visualizations](https://public.tableau.com/app/profile/shreya.kumari7691/viz/AirbnbNYCBookingsAnalyser/Dashboard12 ) for a more interactive experience.
 
 ## Contributions
 Contributions are welcome! If you have ideas for improvements, enhancements, or new features, feel free to submit a pull request.
