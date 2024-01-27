@@ -5,9 +5,15 @@ Welcome to the Airbnb Bookings Analysis project repository! This project explore
 
 ## Project Structure
 - **data/:** Contains the raw dataset used for analysis.
-- **scripts/:** Houses the Python script (`airbnb_analysis.py`) for data analysis.
-- **visualizations/:** Contains visualizations generated using Matplotlib and Seaborn.
+- **notebooks/:** Jupyter notebooks for data analysis and visualization.
+  - `DATA EXPLORATION, WRANGLING & VISUALIZATIONS.ipynb`
 - **tableau/:** Holds the Tableau workbook file (`airbnb_analysis.twb`) for interactive visualizations.
+- **pdf/:** Includes key documents for the project.
+  - `CONCLUSION.pdf`: Document providing project conclusions.
+  - `PROBLEM STATEMENT.pdf`: Document outlining the problem statement.
+  - `SOLUTION.pdf`: Document presenting the solution.
+- **README.md:** Project documentation.
+
 
 ## Project Goals
 ### Understand Hosting Dynamics:
