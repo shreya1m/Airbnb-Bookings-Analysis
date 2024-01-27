@@ -22,10 +22,11 @@ Welcome to the Airbnb Bookings Analysis project repository! This project explore
 - Identify hotspots and understand regional variations in demand.
 
 ## How to Use
+## How to Use
 1. Clone the repository to your local machine.
-2. Navigate to the `scripts/` directory and run the Python script (`airbnb_analysis.py`) for data analysis.
-3. Open the [Tableau Dashboard](https://public.tableau.com/app/profile/shreya.kumari7691/viz/AirbnbNYCBookingsAnalyser/Dashboard12 ) hosted on Tableau Public for interactive visualizations.
-4. Explore the visualizations in the `visualizations/` directory for additional insights.
+2. Open the Jupyter Notebook 'DATA EXPLORATION,WRANGLING & VISUALIZATIONS' for data analysis.
+3. Execute the cells within the Jupyter Notebook to run the data analysis code.
+4. Open the [Tableau Dashboard](https://public.tableau.com/app/profile/shreya.kumari7691/viz/AirbnbNYCBookingsAnalyser/Dashboard12 ) hosted on Tableau Public for interactive visualizations.
 
 ## Dependencies
 - Python 3.x
