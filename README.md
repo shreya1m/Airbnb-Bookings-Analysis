@@ -1,4 +1,6 @@
 # Airbnb Bookings Analysis Project
+![Tableau Dashboard Image](Tableau_Dashboard.png)
+*Figure: A visual preview of the Tableau dashboard showcasing key insights and metrics.*
 
 ## Overview
 Welcome to the Airbnb Bookings Analysis project repository! This project explores the intricate world of Airbnb bookings through an in-depth Exploratory Data Analysis (EDA). The primary goal is to uncover valuable insights and trends within the dataset, shedding light on factors influencing booking patterns, user behavior, and pricing strategies. The project employs Python for data analysis and visualization, utilizing libraries such as Pandas, Matplotlib, Seaborn, and Tableau.
