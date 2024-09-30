@@ -24,7 +24,6 @@ Welcome to the Airbnb Bookings Analysis project repository! This project explore
 - Identify hotspots and understand regional variations in demand.
 
 ## How to Use
-## How to Use
 1. Clone the repository to your local machine.
 2. Open the Jupyter Notebook 'DATA EXPLORATION,WRANGLING & VISUALIZATIONS.ipynb' for data analysis.
 3. Execute the cells within the Jupyter Notebook to run the data analysis code.
